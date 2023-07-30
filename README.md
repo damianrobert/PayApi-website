@@ -1,3 +1,3 @@
 ## PayApi Multipage
 
-**Chalenge from Frontend Mentor https://www.frontendmentor.io**
+**Challenge from Frontend Mentor https://www.frontendmentor.io**
